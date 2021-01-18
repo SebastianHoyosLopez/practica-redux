@@ -4,7 +4,7 @@ import thunk from "redux-thunk";
 import pokeReducer from "./pokeDucks";
 
 const rootReducer = combineReducers({
-  porkemones: pokeReducer,
+  pokemones: pokeReducer,
 });
 
 const composeEnhancers = window.__REDUX_DEVTOOLS_EXTENSION_COMPOSE__ || compose;
