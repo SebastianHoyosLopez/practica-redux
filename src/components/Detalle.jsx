@@ -11,20 +11,22 @@ const Detalle = () => {
       dispatch(unPokeDetalleAccion());
     };
     fetchData();
-  },[dispatch]);
+  }, [dispatch]);
 
-  const pokemon = useSelector(store => store.pokemones.unPokemon)
-  console.log(pokemon)
+  const pokemon = useSelector((store) => store.pokemones.unPokemon);
+  //console.log(pokemon)
 
   return pokemon ? (
     <div className="card mt-4 text-center">
       <div className="card-body">
-        <img src={pokemon.foto} className="img-fluid" />
+        <img src={pokemon.foto} className="img-fluid" alt="" />
         <div className="card-title text-uppercase">{pokemon.nombre}</div>
-  <p className="card-text">Alto: {pokemon.alto} | Ancho: {pokemon.ancho}</p>
+        <p className="card-text">
+          Alto: {pokemon.alto} | Ancho: {pokemon.ancho}
+        </p>
       </div>
     </div>
-  ) : null
+  ) : null;
 };
 
 export default Detalle;
