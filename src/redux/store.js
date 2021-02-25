@@ -16,6 +16,6 @@ export default function generateStore() {
     rootReducer,
     composeEnhancers(applyMiddleware(thunk))
   );
-  leerUsuarioActivoAccion()(store.dispatch)
+  leerUsuarioActivoAccion()(store.dispatch);
   return store;
 }
