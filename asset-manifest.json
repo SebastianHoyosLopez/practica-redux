@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/udemy-redux/static/css/main.6dea0f05.chunk.css",
-    "main.js": "/udemy-redux/static/js/main.61b00243.chunk.js",
-    "main.js.map": "/udemy-redux/static/js/main.61b00243.chunk.js.map",
-    "runtime-main.js": "/udemy-redux/static/js/runtime-main.22d73dc1.js",
-    "runtime-main.js.map": "/udemy-redux/static/js/runtime-main.22d73dc1.js.map",
-    "static/js/2.7a047ba1.chunk.js": "/udemy-redux/static/js/2.7a047ba1.chunk.js",
-    "static/js/2.7a047ba1.chunk.js.map": "/udemy-redux/static/js/2.7a047ba1.chunk.js.map",
-    "index.html": "/udemy-redux/index.html",
-    "static/css/main.6dea0f05.chunk.css.map": "/udemy-redux/static/css/main.6dea0f05.chunk.css.map",
-    "static/js/2.7a047ba1.chunk.js.LICENSE.txt": "/udemy-redux/static/js/2.7a047ba1.chunk.js.LICENSE.txt"
+    "main.css": "/practica-redux/static/css/main.6dea0f05.chunk.css",
+    "main.js": "/practica-redux/static/js/main.61b00243.chunk.js",
+    "main.js.map": "/practica-redux/static/js/main.61b00243.chunk.js.map",
+    "runtime-main.js": "/practica-redux/static/js/runtime-main.bad0b5e4.js",
+    "runtime-main.js.map": "/practica-redux/static/js/runtime-main.bad0b5e4.js.map",
+    "static/js/2.6c0604d3.chunk.js": "/practica-redux/static/js/2.6c0604d3.chunk.js",
+    "static/js/2.6c0604d3.chunk.js.map": "/practica-redux/static/js/2.6c0604d3.chunk.js.map",
+    "index.html": "/practica-redux/index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "/practica-redux/static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.6c0604d3.chunk.js.LICENSE.txt": "/practica-redux/static/js/2.6c0604d3.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.22d73dc1.js",
-    "static/js/2.7a047ba1.chunk.js",
+    "static/js/runtime-main.bad0b5e4.js",
+    "static/js/2.6c0604d3.chunk.js",
     "static/css/main.6dea0f05.chunk.css",
     "static/js/main.61b00243.chunk.js"
   ]
